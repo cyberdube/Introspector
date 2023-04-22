@@ -20,7 +20,7 @@ We have used C# scripting in which we used inbuilt functions like (rendersetting
 ![](7.jpg)
 
 # Features
- - ##**Feature 1 **  - Quizified Game for James Web Telescope , where you can play and learn.
+ - ##**Feature 1**  - Quizified Game for James Web Telescope , where you can play and learn.
 
 <img src ="2.jpg" width ="700" height = "400">
 
