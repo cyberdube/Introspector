@@ -22,7 +22,7 @@ We have used C# scripting in which we used inbuilt functions like (rendersetting
 # FEATURES
  - ## **Feature 1**  - Quizified Game for James Web Telescope , where you can play and learn.
 
-<img src ="2.jpg" width ="700" height = "400">
+<img src ="image.jpg" width ="700" height = "400">
 
 ### AR Model - An AR model of the various parts of a human body. Helps remember the names better .
 
