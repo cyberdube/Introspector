@@ -1,5 +1,5 @@
 <!-- which  -->
-## KARA - The Kids Augumented Reality App
+# INTROSPECTOR - Gamified Webgl Quiz
  
 
 KARA targets the Kids, using our AR and VR-driven content based on our current NEP-2020 policy we have created content that will change the future of learning in a most innovative manner.
@@ -11,22 +11,26 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 -> Within AR folder, all seperate AR modules of our project are present and same for android.</br>
 -> We have created seperate readme file for each of them which clearly provide the instructions to use the modules.</br>
 ## Demo
-
-![](poster.jpeg)
+# [Project Link](https://thunderous-sherbet-80b45f.netlify.app/)
+![](7.jpg)
 
 ## Features
 ### AR Model - A VR model of the solar system which gives you an ultimate experience of the universe as you can watch various features of the solar system.
 
-<img src ="SolarSystem.jpeg" width ="700" height = "400">
+<img src ="2.jpg" width ="700" height = "400">
 
 ### AR Model - An AR model of the various parts of a human body. Helps remember the names better .
 
-<img src="bodyParts.jpeg" width="700" height="400">
+<img src="3.jpg" width="700" height="400">
 
 ### AR Model - Playing with alphabets - This is a visual aid which helps in learning alphabets.
 
-<img src = "Alphabets.jpeg" width = "700" height = "400">
+<img src = "4.jpg" width = "700" height = "400">
 
 ### Game (Pretty Mushroom) - It is a science trivia game which presents quiz as a way to win various coins.
 
-<img src = "PrettyMushroom.jpeg" width = "700" height = "400">
+<img src = "11.jpg" width = "700" height = "400">
+
+## Contributors
+
+- [Kapil Kumar Singh](https://github.com/kapilsingh2003)
