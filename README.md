@@ -24,16 +24,8 @@ We have used C# scripting in which we used inbuilt functions like (rendersetting
 
 <img src ="image.jpg" width ="700" height = "400">
 
-### AR Model - An AR model of the various parts of a human body. Helps remember the names better .
 
-<img src="3.jpg" width="700" height="400">
-
-### AR Model - Playing with alphabets - This is a visual aid which helps in learning alphabets.
-
-<img src = "4.jpg" width = "700" height = "400">
-
-### Game (Pretty Mushroom) - It is a science trivia game which presents quiz as a way to win various coins.
-
+- ## **Feature 2**  - Through this scene one can use the rotate view,zoom view and also change the skybox. It also depicts the infrared and visible mode of the telescope
 <img src = "11.jpg" width = "700" height = "400">
 
 ## Contributors
