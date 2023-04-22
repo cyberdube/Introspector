@@ -33,4 +33,4 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 
 ## Contributors
 
-- [@kapil](https://github.com/kapilsingh2003)
+- [Kapil Kumar Singh](https://github.com/kapilsingh2003)
