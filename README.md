@@ -30,3 +30,7 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 ### Game (Pretty Mushroom) - It is a science trivia game which presents quiz as a way to win various coins.
 
 <img src = "11.jpg" width = "700" height = "400">
+
+## Contributors
+
+- [@kapil](https://github.com/kapilsingh2003)
