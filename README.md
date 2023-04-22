@@ -11,8 +11,8 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 -> Within AR folder, all seperate AR modules of our project are present and same for android.</br>
 -> We have created seperate readme file for each of them which clearly provide the instructions to use the modules.</br>
 ## Demo
-
-![](1.jpeg)
+# [Project Link](https://thunderous-sherbet-80b45f.netlify.app/)
+![](7.jpg)
 
 ## Features
 ### AR Model - A VR model of the solar system which gives you an ultimate experience of the universe as you can watch various features of the solar system.
