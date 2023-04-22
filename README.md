@@ -12,21 +12,21 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 -> We have created seperate readme file for each of them which clearly provide the instructions to use the modules.</br>
 ## Demo
 
-![](poster.jpeg)
+![](1.jpeg)
 
 ## Features
 ### AR Model - A VR model of the solar system which gives you an ultimate experience of the universe as you can watch various features of the solar system.
 
-<img src ="SolarSystem.jpeg" width ="700" height = "400">
+<img src ="2.jpg" width ="700" height = "400">
 
 ### AR Model - An AR model of the various parts of a human body. Helps remember the names better .
 
-<img src="bodyParts.jpeg" width="700" height="400">
+<img src="3.jpg" width="700" height="400">
 
 ### AR Model - Playing with alphabets - This is a visual aid which helps in learning alphabets.
 
-<img src = "Alphabets.jpeg" width = "700" height = "400">
+<img src = "4.jpg" width = "700" height = "400">
 
 ### Game (Pretty Mushroom) - It is a science trivia game which presents quiz as a way to win various coins.
 
-<img src = "PrettyMushroom.jpeg" width = "700" height = "400">
+<img src = "5.jpg" width = "700" height = "400">
