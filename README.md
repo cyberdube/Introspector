@@ -41,7 +41,7 @@ We have used C# scripting in which we used inbuilt functions like (rendersetting
 
 **Event:**  [NASA Space Apps Challenge 2022](https://www.spaceappschallenge.org/)
 
-**Position:**  [Global Finalist Honorable Mention](https://2022.spaceappschallenge.org/awards/honorable-mentions/)
+**Position:** My Team 2:59 A.M secured [Global Finalist Honorable Mention](https://2022.spaceappschallenge.org/awards/honorable-mentions/)
 
 <img src = "Awards.png" width = "700" height = "400">
 
