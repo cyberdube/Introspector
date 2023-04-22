@@ -20,12 +20,15 @@ We have used C# scripting in which we used inbuilt functions like (rendersetting
 ![](7.jpg)
 
 # FEATURES
- - ## **Feature 1:**   Quizified Game for James Web Telescope , where you can play and learn.
+ - ## **Feature 1:**  </br>
+  Quizified Game for James Web Telescope , where you can play and learn.
 
 <img src ="image.jpg" width ="700" height = "400">
 
 
-- ## **Feature 2:**   Through this scene one can use the rotate view,zoom view and also change the skybox. It also depicts the infrared and visible mode of the telescope
+- ## **Feature 2:** </br>
+  Through this scene one can use the rotate view,zoom view and also change the skybox.</br>
+  It also depicts the infrared and visible mode of the telescope
 <img src = "11.jpg" width = "700" height = "400">
 
 ## Contributors
