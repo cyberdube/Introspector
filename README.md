@@ -44,6 +44,7 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 **Position:**  [Global Finalist Honorable Mention](https://2022.spaceappschallenge.org/awards/honorable-mentions/)
 
 <img src = "Awards.png" width = "700" height = "400">
+
 ## Lessons Learned :  - [Deploying Unity Projects on webgl pages.](https://youtu.be/q8R3IkbaDso/)
 
 <img src = "learn.jpg" width = "700" height = "400">
