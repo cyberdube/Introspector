@@ -34,3 +34,8 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 ## Contributors
 
 - [Kapil Kumar Singh](https://github.com/kapilsingh2003)
+
+## Lessons Learned :  - [Deploying Unity Projects on webgl pages.](https://youtu.be/q8R3IkbaDso/)
+
+<img src = "learn.jpg" width = "700" height = "400">
+
