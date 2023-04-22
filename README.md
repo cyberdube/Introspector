@@ -20,20 +20,15 @@ We have used C# scripting in which we used inbuilt functions like (rendersetting
 ![](7.jpg)
 
 # FEATURES
- - ## **Feature 1**  - Quizified Game for James Web Telescope , where you can play and learn.
+ - ## **Feature 1:**  </br>
+  Quizified Game for James Web Telescope , where you can play and learn.
 
-<img src ="2.jpg" width ="700" height = "400">
+<img src ="image.jpg" width ="700" height = "400">
 
-### AR Model - An AR model of the various parts of a human body. Helps remember the names better .
 
-<img src="3.jpg" width="700" height="400">
-
-### AR Model - Playing with alphabets - This is a visual aid which helps in learning alphabets.
-
-<img src = "4.jpg" width = "700" height = "400">
-
-### Game (Pretty Mushroom) - It is a science trivia game which presents quiz as a way to win various coins.
-
+- ## **Feature 2:** </br>
+  Through this scene one can use the rotate view,zoom view and also change the skybox.</br>
+  It also depicts the infrared and visible mode of the telescope
 <img src = "11.jpg" width = "700" height = "400">
 
 ## Contributors
