@@ -35,7 +35,7 @@ We have used C# scripting in which we used inbuilt functions like (rendersetting
 
 - [Kapil Kumar Singh](https://github.com/kapilsingh2003)
 
-<img src ="pic.jpg" width ="700" height = "400">
+<img src ="pic.jpg" width ="500" height = "400">
 
 
 ## Accomplishments
